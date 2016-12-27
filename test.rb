@@ -1,3 +1,4 @@
+da xoa remote origin
 xoa remote origin
 test tren hello_app
 test lan 2
